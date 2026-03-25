@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Auth Frontend App</h1>
 
 <p align="center">
-  A modern authentication frontend built using Next.js and Tailwind CSS.
+  A modern product listing frontend built using Next.js and Tailwind CSS.
 </p>
 
 <hr />
@@ -50,8 +50,8 @@ app/
 
 <h3>1. Clone Repository</h3>
 <pre>
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Abhi1001001/product-ass-F1.0.git
+cd product-ass-f1.0
 </pre>
 
 <h3>2. Install Dependencies</h3>
@@ -94,18 +94,6 @@ npm run dev
   <li>User is redirected to dashboard</li>
   <li>Navbar updates based on login state</li>
 </ol>
-
-<hr />
-
-<h2>📸 Screens (Optional)</h2>
-
-<p>Add screenshots here:</p>
-
-<pre>
-/screenshots/login.png
-/screenshots/signup.png
-/screenshots/dashboard.png
-</pre>
 
 <hr />
 
