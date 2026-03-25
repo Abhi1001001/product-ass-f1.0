@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Auth Frontend App</h1>
+<h1 align="center">🚀 Product Listing App</h1>
 
 <p align="center">
   A modern product listing frontend built using Next.js and Tailwind CSS.
